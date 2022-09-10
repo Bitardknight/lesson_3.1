@@ -1,0 +1,12 @@
+.block p{
+    color:blue;
+    
+}
+.string > p{
+    color:aqua;
+
+}
+
+.last *{
+color: blueviolet;
+}
